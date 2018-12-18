@@ -8,4 +8,8 @@ public class FirstTest {
         System.out.println("git11111");
         System.out.println("git11111");
     }
+
+    public void test() {
+        System.out.println(2222);
+    }
 }
